@@ -10,6 +10,7 @@ Amateur de Stack Overflow, qui vous a souvent sauvé la mise, vous décidez d'ai
 https://data.stackexchange.com/stackoverflow/query/new:
 
 **Commande**:
+
 SELECT TOP 500000 Title, Body, Tags, Id, Score, ViewCount, FavoriteCount, AnswerCount
 
 FROM Posts
